@@ -53,8 +53,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("BikashGadgetsTech")
-                await self.one.join_chat("BikashGadgetsTech")
+                await self.one.join_chat("kinghyt_chat")
+                await self.one.join_chat("kinghyt_chat")
             except:
                 pass
             assistants.append(1)
@@ -84,8 +84,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("BikashGadgetsTech")
-                await self.two.join_chat("BikashGadgetsTech")
+                await self.two.join_chat("kinghyt_chat")
+                await self.two.join_chat("kinghyt_chat")
             except:
                 pass
             assistants.append(2)
@@ -146,8 +146,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("BikashGadgetsTech")
-                await self.four.join_chat("BikashGadgetsTech")
+                await self.four.join_chat("kinghyt_chat")
+                await self.four.join_chat("kinghyt_chat")
             except:
                 pass
             assistants.append(4)
@@ -177,8 +177,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("BikashGadgetsTech")
-                await self.five.join_chat("BikashGadgetsTech")
+                await self.five.join_chat("kinghyt_chat")
+                await self.five.join_chat("kinghyt_chat")
             except:
                 pass
             assistants.append(5)
